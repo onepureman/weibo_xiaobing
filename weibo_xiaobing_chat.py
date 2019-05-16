@@ -23,7 +23,7 @@ class XiaoBing(object):
             "Connection": "keep-alive",
             "Content-Length": "152",
             "Content-Type":"application/x-www-form-urlencoded",
-            "Cookie": "login_sid_t=b7694b933cc512f7e85688a0a2a78345; cross_origin_proto=SSL; _s_tentry=passport.weibo.com; Apache=2827453773357.5864.1557798619194; SINAGLOBAL=2827453773357.5864.1557798619194; ULV=1557798619202:1:1:1:2827453773357.5864.1557798619194:; SSOLoginState=1557798630; SCF=And8B39Te5KxeDr9Pud1IA5-fOK2tDqhP1Lx0EmploZ6K3V5XQ1cgGXglVwh1ps-zPm_pq2IW_A0Zj6pxJbN7T4.; un=18513606786; wvr=6; __guid=218532681.3481864489142050300.1557798693954.86; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWvENqAp4M9zN4V_biSY6qa5JpX5KzhUgL.Foqce0eR1hef1K22dJLoIEXLxK-LBozL1h2LxKqL1-eL1hnLxKBLB.zLBK-LxKnL12BL1KzLxKnL122L1-et; SUB=_2A25x2KZoDeRhGeBI6FEZ-C3Jwj2IHXVSr5CgrDV8PUNbmtAKLUrukW9NRpov0Uw7ntDVLjSiJcEeTOp8f01ouKqZ; SUHB=0btMvYWmOAOXau; ALF=1589512631; monitor_count=17",
+            "Cookie": "",
             "Host": "api.weibo.com",
             "Origin": "https://api.weibo.com",
             "Referer": "https://api.weibo.com/chat/",
